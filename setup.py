@@ -1,11 +1,4 @@
 
-readme = open('README.rst').read()
-
-requirements = [
-    "pyTelegramBotAPI",
-    "requests",
-]
-
 test_requirements = [
     "mock",
     "nose",
